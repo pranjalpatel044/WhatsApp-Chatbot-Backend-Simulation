@@ -70,7 +70,7 @@ Sample Response
 
 ## 🌐 Live Deployment
 The application is hosted on Render:  
-[Live API Link](https://your-app-name.onrender.com/webhook)
+[Live API Link](https://whatsapp-chatbot-backend-simulation.onrender.com/webhook)
 
 ---
 **Submitted by:** Pranjal Patel  
